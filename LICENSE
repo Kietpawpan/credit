@@ -25,3 +25,6 @@ CREDITS
 [Margin]
 symlink
 https://stackoverflow.com/questions/35822149/how-to-make-margin-top-based-on-browser-height
+
+[Autoscroll]
+sabapathygithub/Autoscroll.js
